@@ -6,7 +6,10 @@ I work with AI to move fast — judgment, taste, and context are mine.
 ## Currently building
 - [Katchup](https://gayawork.github.io/katchup-app) — K-Culture newsletter web · live
 - **Allimjang** — AI note generator for kindergarten teachers · in iteration
+
+## Case studies
 - [Katch](https://www.behance.net/gallery/246268847/Katch-K-Culture-Community-App) — K-Culture community app · UX case study
+- [Popcorn](https://www.behance.net/gallery/246633483/Popcorn-Cinema-Snack-Ordering-App) — Cinema snack ordering app · UX research + Figma prototype
 
 ## Background
 12 years as an educator across all ages.  
