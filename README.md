@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Gaya 👋
 
-<!--
-**gayawork/gayawork** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+UX/UI Designer based in Seoul.  
+I work with AI to move fast — judgment, taste, and context are mine.
 
-Here are some ideas to get you started:
+## Currently building
+- [Katchup](https://gayawork.github.io/katchup-app) — K-Culture newsletter web · live
+- **Allimjang** — AI note generator for kindergarten teachers · in iteration
+- [Katch](https://www.behance.net/gallery/246268847/Katch-K-Culture-Community-App) — K-Culture community app · UX case study
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Background
+12 years as an educator across all ages.  
+That's the part AI can't replicate.
+
+## Tools
+Figma · HTML/CSS · Claude · Gemini · Stitch · Notion
+
+## Find me
+[Behance](https://www.behance.net/gayawork) · [Medium](https://medium.com/@gayawork)
